@@ -1,2 +1,13 @@
 swapfile
 xgb_starter_3450.csv
+aisles.csv
+departments.csv
+order_products__prior.csv
+order_products__train.csv
+orders.csv
+products.csv
+sample_submission.csv
+catboost_info/learn_error.tsv
+catboost_info/time_left.tsv
+catboost_info/catboost_training.json
+catboost_info/learn/events.out.tfevents
